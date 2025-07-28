@@ -8,9 +8,11 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::prefix('auth')->group(function () {
-    require('routers/auth.php');
+    require __DIR__ . '/routers/auth.php';
 });
+
 Route::prefix('app')->group(function () {
-    require('routers/app.php');
+    require __DIR__ . '/routers/app.php';
 });
-require('routers/settings.php');
+
+require __DIR__ . '/routers/settings.php';
