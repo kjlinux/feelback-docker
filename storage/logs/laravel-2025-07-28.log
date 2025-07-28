@@ -1,0 +1,10 @@
+[2025-07-28 01:04:49] local.ERROR: __VSCODE_LARAVEL_STARTUP_ERROR__: rename(C:\laragon\www\feelback-docker\bootstrap\cache\serB4EC.tmp,C:\laragon\www\feelback-docker\bootstrap\cache\services.php): Accès refusé (code: 5) {"exception":"[object] (Error(code: 0): __VSCODE_LARAVEL_STARTUP_ERROR__: rename(C:\\laragon\\www\\feelback-docker\\bootstrap\\cache\\serB4EC.tmp,C:\\laragon\\www\\feelback-docker\\bootstrap\\cache\\services.php): Accès refusé (code: 5) at C:\\laragon\\www\\feelback-docker\\vendor\\_laravel_ide\\discover-1e7ea3cf42a2f9b84f3de09530e2c135.php:33)
+[stacktrace]
+#0 C:\\laragon\\www\\feelback-docker\\vendor\\_laravel_ide\\discover-1e7ea3cf42a2f9b84f3de09530e2c135.php(62): LaravelVsCode::startupError(Object(ErrorException))
+#1 {main}
+"} 
+[2025-07-28 01:04:49] local.ERROR: __VSCODE_LARAVEL_STARTUP_ERROR__: rename(C:\laragon\www\feelback-docker\bootstrap\cache\serB26D.tmp,C:\laragon\www\feelback-docker\bootstrap\cache/services.php): Accès refusé (code: 5) {"exception":"[object] (Error(code: 0): __VSCODE_LARAVEL_STARTUP_ERROR__: rename(C:\\laragon\\www\\feelback-docker\\bootstrap\\cache\\serB26D.tmp,C:\\laragon\\www\\feelback-docker\\bootstrap\\cache/services.php): Accès refusé (code: 5) at C:\\laragon\\www\\feelback-docker\\vendor\\_laravel_ide\\discover-9abd86d674d0ba851f4ac7b31349196a.php:33)
+[stacktrace]
+#0 C:\\laragon\\www\\feelback-docker\\vendor\\_laravel_ide\\discover-9abd86d674d0ba851f4ac7b31349196a.php(62): LaravelVsCode::startupError(Object(ErrorException))
+#1 {main}
+"} 
